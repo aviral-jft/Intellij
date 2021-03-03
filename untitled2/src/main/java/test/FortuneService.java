@@ -1,2 +1,5 @@
-package test;public interface FortuneService {
+package test;
+
+public interface FortuneService {
+    public String getFortune();
 }
